@@ -1,0 +1,6 @@
+**/.git
+**/.wrangler
+wrangler.jsonc
+vercel.json
+README.md
+README.txt
